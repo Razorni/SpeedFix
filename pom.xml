@@ -11,7 +11,7 @@
 
     <name>SpeedFix</name>
 
-    <description>CrazyEnchantments Speed Fix designed to work with Lazarus</description>
+    <description>CrazyEnchantments Speed Fix</description>
     <properties>
         <java.version>1.8</java.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

@@ -3,4 +3,4 @@ version: ${project.version}
 main: dev.razorni.speedfix.SpeedFix
 api-version: 1.15
 authors: [Razorni]
-description: CrazyEnchantments Speed Fix designed to work with Lazarus
+description: CrazyEnchantments Speed Fix

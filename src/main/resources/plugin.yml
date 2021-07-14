@@ -1,0 +1,6 @@
+name: SpeedFix
+version: ${project.version}
+main: dev.razorni.speedfix.SpeedFix
+api-version: 1.15
+authors: [Razorni]
+description: CrazyEnchantments Speed Fix
